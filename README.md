@@ -17,10 +17,12 @@ classDiagram
     
     class Product {
         - tipo: String
+        - nome: String
         - valor: double
     }
     
     class Stock {
+        - nome: String
         - minimo: int
         - entrada: int
         - valor: double
