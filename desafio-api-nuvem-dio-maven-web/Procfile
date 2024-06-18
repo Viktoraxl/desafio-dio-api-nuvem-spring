@@ -1,0 +1,1 @@
+web: java -jar target/desafio-api-nuvem-dio-maven-web-0.0.1-SNAPSHOT.jar
